@@ -1,0 +1,5 @@
+RandomForestRegressor_model/*
+RandomForestRegressor_model1/*
+.venv/
+bio/
+*.csv
